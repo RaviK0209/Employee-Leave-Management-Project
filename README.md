@@ -34,7 +34,7 @@ used localstorage to store user credentials in browser local storage, which can 
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone <gh repo clone RaviK0209/Employee-Leave-Management-Project>
 
 # Step 2: Navigate to the project directory.
 cd project
