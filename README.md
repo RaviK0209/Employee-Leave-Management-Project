@@ -6,7 +6,7 @@
 
   employee can login using their login credentials or signup by filling up required fields.
 
-  oncee logged in, employee can see their details like Name, Leave balance etc.
+  once logged in, employee can see their details like Name, Leave balance etc.
 
   Filling up the leave request form employee can apply for leave(no. of days, leave type, reason for leave).
 
